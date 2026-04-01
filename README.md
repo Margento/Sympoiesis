@@ -14,5 +14,7 @@ This second movement---SYMPOIESIS---extends that encounter into a generative fie
 
 Topographical-topological entanglements become active, performative agents within a dynamic system.
 
-Audio files credited to https://freesound.org/ & https://www.montrealsoundmap.com/ (see the Sympoiesis GitHub for full list of file weblinks). 
+Audio files credited to https://freesound.org/ & https://www.montrealsoundmap.com/.
+
+
 Excerpted music video © MARGENTO (live in Berlin 2008).
