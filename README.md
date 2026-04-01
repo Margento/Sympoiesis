@@ -5,7 +5,7 @@ Human &amp; LLM poets (i.e., topographical &amp; topological) sympoietic fusion 
 Sympoiesis is a transmedia, multimodal poetic system in which language, sound, and computation co-write one another. This repository contains the second movement of a two-stage project exploring distributed subjectivity, human–machine collaboration, and the entanglements of urban and algorithmic experience.
 
 
-The first stage---implemented in the repository LET-THE-NOISE-IN (https://github.com/Margento/LET-THE-NOISE-IN)---followed a drifting observer confronted with the interference of machine-generated texts & media.
+The first stage---implemented in the repository LET-THE-NOISE-IN (https://github.com/Margento/LET-THE-NOISE-IN) ---followed a drifting observer confronted with the interference of machine-generated texts & media.
 
 
 This second movement---SYMPOIESIS---extends that encounter into a generative field where voices, locations, and processes intermingle. The flâneur of city spaces and/as the flâneur of interlinked data fold into one another, co-modulating patterns, rewriting drafts, and thus continuously rewriting each other.
