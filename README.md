@@ -14,6 +14,8 @@ This second movement---SYMPOIESIS---extends that encounter into a generative fie
 
 Topographical-topological entanglements become active, performative agents within a dynamic system.
 
+
+
 Audio files credited to https://freesound.org/ & https://www.montrealsoundmap.com/.
 
 
