@@ -1,0 +1,21 @@
+links = [
+‘https://archive.org/details/0371_chemical_wagons_05-11-15',
+'https://archive.org/details/0094_sqvictoria_rotunda_woman_20-02-09',
+'https://archive.org/details/0348_floating_dock_river_saint_laurent_29-05-15',
+'https://archive.org/details/0258_172_dalhousie_corner_of_ottawa_adjacent_to_the_cn_viaduct_20-01-11',
+'https://archive.org/details/0246_notre-_dame_basilica_-_old_montreal_18-09-10',
+'https://archive.org/details/0226_rue_de_la_gauchetiere_and_rue_jeanne-mance_24-06-10',
+'https://archive.org/details/0179_quai_vieux_montral_16-05-08',
+'https://archive.org/search?query=0227_palais_des_congres_flag_poles_24-06-10',
+'0018_metcalfe_piledriver_27-11-08_clean',
+'0185_christ_church_cathedral__1444_avenue_union__22-03-10_clean',
+'https://freesound.org/people/al.barbosa/sounds/150856/',
+'https://freesound.org/people/RTB45/sounds/149748/',
+'https://freesound.org/people/martian/sounds/530372/',
+'https://freesound.org/people/jumpbug99/sounds/388412/',
+'https://freesound.org/people/jumpbug99/sounds/388414/',
+'https://freesound.org/people/ivolipa/sounds/846021/',
+'https://freesound.org/people/kevp888/sounds/465642/',
+'https://freesound.org/people/martian/sounds/563720/',
+'https://freesound.org/people/Oplurus/sounds/458983/'
+]
