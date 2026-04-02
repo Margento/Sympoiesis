@@ -1,0 +1,185 @@
+[{
+    "file": "hk_clean_wavs/563720__martian__restaurant-loud-crowd-mixed_clean.wav",
+    "start": 0.00,
+    "end": 21.689166666666665,
+    "type": "first_pass",
+    "mode": "topographical",
+    "fragment_id": null
+  },
+  {
+    "file": "hk_clean_wavs/0179_quai_vieux_montral_16-05-08_clean.wav",
+    "start": 16.4254375,
+    "end": 40.689166666666665,
+    "type": "first_pass",
+    "mode": "topographical",
+    "fragment_id": null
+  },
+  {
+    "file": "hk_clean_wavs/150856__albarbosa__hongkong-stop-lights_clean.wav",
+    "start": 25.072166666666668,
+    "end": 53.44745833333333,
+    "type": "first_pass",
+    "mode": "disruptive",
+    "fragment_id": null
+  },
+  {
+    "file": "hk_clean_wavs/0371_chemical_wagons_05-11-15_clean.wav",
+    "start": 31.753104166666667,
+    "end": 58.114895833333335,
+    "type": "first_pass",
+    "mode": "topological",
+    "fragment_id": null
+  },
+  {
+    "file": "hk_clean_wavs/846021__ivolipa__lion-dance-drum-rythm-chinese-new-year-2026_clean.wav",
+    "start": 43.967104166666665,
+    "end": 77.03354166666666,
+    "type": "first_pass",
+    "mode": "disruptive",
+    "fragment_id": null
+  },
+  {
+    "file": "hk_clean_wavs/0246_notre-_dame_basilica_-_old_montreal_18-09-10_clean.wav",
+    "start": 61.6061875,
+    "end": 85.95320833333334,
+    "type": "first_pass",
+    "mode": "topological",
+    "fragment_id": null
+  },
+  {
+    "file": "hk_clean_wavs/388412__jumpbug99__escalator-entrance-with-audible-guide_clean.wav",
+    "start": 66.39870833333333,
+    "end": 89.577375,
+    "type": "first_pass",
+    "mode": "disruptive",
+    "fragment_id": null
+  },
+  {
+    "file": "hk_clean_wavs/0226_rue_de_la_gauchetiere_and_rue_jeanne-mance_24-06-10_clean.wav",
+    "start": 75.86020833333333,
+    "end": 107.79664583333333,
+    "type": "first_pass",
+    "mode": "topological",
+    "fragment_id": null
+  },
+  {
+    "file": "hk_clean_wavs/388414__jumpbug99__shopping-at-log-on_clean.wav",
+    "start": 93.61902083333334,
+    "end": 128.46466666666666,
+    "type": "first_pass",
+    "mode": "topographical",
+    "fragment_id": null
+  },
+  {
+    "file": "hk_clean_wavs/465642__kevp888__ls_34265_hk_stanleyvillagestreet_clean.wav",
+    "start": 116.174,
+    "end": 142.0871875,
+    "type": "first_pass",
+    "mode": "disruptive",
+    "fragment_id": null
+  },
+  {
+    "file": "hk_clean_wavs/530372__martian__funeral-van-pass-away_clean.wav",
+    "start": 124.77785416666667,
+    "end": 151.22439583333335,
+    "type": "first_pass",
+    "mode": "topological",
+    "fragment_id": null
+  },
+  {
+    "file": "hk_clean_wavs/0185_christ_church_cathedral__1444_avenue_union__22-03-10_clean.wav",
+    "start": 138.4179375,
+    "end": 164.45177083333334,
+    "type": "first_pass",
+    "mode": "disruptive",
+    "fragment_id": null
+  },
+  {
+    "file": "hk_clean_wavs/0227_palais_des_congres_flag_poles_24-06-10_clean.wav",
+    "start": 147.73475,
+    "end": 174.65195833333334,
+    "type": "first_pass",
+    "mode": "topological",
+    "fragment_id": null
+  },
+  {
+    "file": "hk_clean_wavs/0258_172_dalhousie_corner_of_ottawa_adjacent_to_the_cn_viaduct_20-01-11_clean.wav",
+    "start": 150.89035416666667,
+    "end": 176.67016666666666,
+    "type": "first_pass",
+    "mode": "topographical",
+    "fragment_id": null
+  },
+  {
+    "file": "hk_clean_wavs/0094_sqvictoria_rotunda_woman_20-02-09_clean.wav",
+    "start": 153.50597916666666,
+    "end": 183.53672916666667,
+    "type": "first_pass",
+    "mode": "topographical",
+    "fragment_id": null
+  },
+  {
+    "file": "hk_clean_wavs/0018_metcalfe_piledriver_27-11-08_clean.wav",
+    "start": 170.22083333333333,
+    "end": 203.2210625,
+    "type": "first_pass",
+    "mode": "topological",
+    "fragment_id": null
+  },
+  {
+    "file": "hk_clean_wavs/149748__rtb45__yuen-po-st-bird-garden-hong-kong_clean.wav",
+    "start": 184.60870833333334,
+    "end": 214.284375,
+    "type": "first_pass",
+    "mode": "topographical",
+    "fragment_id": null
+  },
+  {
+    "file": "hk_clean_wavs/0348_floating_dock_river_saint_laurent_29-05-15_clean.wav",
+    "start": 193.6459375,
+    "end": 225.90627083333334,
+    "type": "first_pass",
+    "mode": "disruptive",
+    "fragment_id": null
+  },
+  {
+    "file": "hk_clean_wavs/388412__jumpbug99__escalator-entrance-with-audible-guide_clean.wav",
+    "start": 214.27164583333334,
+    "end": 225.90627083333334,
+    "type": "second_pass",
+    "mode": "topographical",
+    "fragment_id": null
+  },
+  {
+    "file": "hk_clean_wavs/0179_quai_vieux_montral_16-05-08_clean.wav",
+    "start": 212.75954166666668,
+    "end": 225.90627083333334,
+    "type": "second_pass",
+    "mode": "topological",
+    "fragment_id": null
+  },
+  {
+    "file": "hk_clean_wavs/0246_notre-_dame_basilica_-_old_montreal_18-09-10_clean.wav",
+    "start": 205.89102083333333,
+    "end": 225.90627083333334,
+    "type": "second_pass",
+    "mode": "topological",
+    "fragment_id": null
+  },
+  {
+    "file": "hk_clean_wavs/0258_172_dalhousie_corner_of_ottawa_adjacent_to_the_cn_viaduct_20-01-11_clean.wav",
+    "start": 212.32566666666668,
+    "end": 229.858,
+    "type": "second_pass",
+    "mode": "topological",
+    "fragment_id": null
+  },
+  {
+    "file": "hk_clean_wavs/465642__kevp888__ls_34265_hk_stanleyvillagestreet_clean.wav",
+    "start": 213.57633333333334,
+    "end": 229.858,
+    "type": "second_pass",
+    "mode": "topographical",
+    "fragment_id": null
+  }
+]
