@@ -156,7 +156,8 @@ The result is a computationally generated videopoem whose timing, form, and spat
 Install dependencies:
 
 
-```bash
+```
+bash
 pip install moviepy numpy
 ```
 
@@ -232,7 +233,7 @@ a choreography of computational gesture and linguistic expression.
   A generative poetry engine that complements the aesthetic and technical approach of Sympoiesis.
 
 
-## **ontributing**
+## **Contributing**
 
 
 Pull requests and experimental forks are welcome.
