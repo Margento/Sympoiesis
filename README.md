@@ -25,7 +25,7 @@ Topographical-topological entanglements become active, performative agents withi
 # **Sympoiesis — A Generative Videopoem Engine**
 
 
-This repository contains the full code used to generate the **Sympoiesis videopoem**, including modular text-animation functions, parametric Bézier-curve typography, layered video compositing, and audio-responsive behaviors.
+This repository contains the full code used to generate the **Sympoiesis videopoem** (submitted to a literary journal, stay tuned), including modular text-animation functions, parametric Bézier-curve typography, layered video compositing, and audio-responsive behaviors.
 
 
 ---
@@ -216,7 +216,7 @@ Sympoiesis engages with the idea of *“making-with”*:
 text, algorithm, motion, and time co-produce meaning.
 
 
-Rather than illustrating a poem, the system reveals relationships through emergent behavior—
+Rather than illustrating a poem, the system reveals relationships through emergent behavior—-
 
 
 a choreography of computational gesture and linguistic expression.
