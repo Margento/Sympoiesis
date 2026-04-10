@@ -31,7 +31,7 @@ This repository contains the full code used to generate the **Sympoiesis videopo
 ---
 
 
-## **✨ Features**
+## **Features**
 
 
 * **Programmatic Text Animation**
@@ -85,7 +85,7 @@ This repository contains the full code used to generate the **Sympoiesis videopo
 ---
 
 
-## **🚀 How It Works**
+## **How It Works**
 
 
 Sympoiesis builds the videopoem in **three conceptual stages**:
@@ -122,8 +122,10 @@ Clips are combined using `CompositeVideoClip` to create:
 The montage is rendered as a full composite:
 
 
+```
 python
 final.write_videofile("sympoiesis_final.mp4", fps=24, codec="libx264", audio_codec="aac")
+```
 
 
 The result is a computationally generated videopoem whose timing, form, and spatial relationships arise sympoietically from the interplay of code and text.
@@ -132,7 +134,7 @@ The result is a computationally generated videopoem whose timing, form, and spat
 ---
 
 
-## **📦 Requirements**
+## **Requirements**
 
 
 * Python 3.9+
@@ -155,15 +157,13 @@ Install dependencies:
 
 
 ```bash
-
-
 pip install moviepy numpy
 ```
 
 ---
 
 
-## **▶️ Usage**
+## **Usage**
 
 
 ### **Option A — Run the Notebook**
@@ -208,7 +208,7 @@ video.write_videofile("output.mp4")
 
 ---
 
-## **🎨 Concept & Poetics**
+## **Concept & Poetics**
 
 
 Sympoiesis engages with the idea of *“making-with”*:
@@ -225,26 +225,14 @@ a choreography of computational gesture and linguistic expression.
 ---
 
 
-## **📚 Related Projects**
+## **Related Projects**
 
 
 * **LET THE NOISE IN** — [https://github.com/Margento/LET-THE-NOISE-IN](https://github.com/Margento/LET-THE-NOISE-IN)
   A generative poetry engine that complements the aesthetic and technical approach of Sympoiesis.
 
 
----
-
-
-## **📜 License**
-
-
-MIT License (or update if the repo uses a different one).
-
-
----
-
-
-## **🤝 Contributing**
+## **ontributing**
 
 
 Pull requests and experimental forks are welcome.
