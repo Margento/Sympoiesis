@@ -5,7 +5,7 @@
 
 An experimental, code-based videopoem generator that composes text, sound, and moving image into a dynamic, procedural audiovisual work. Text, algorithmic motion, and computational montage jointly produce emergent poetic form.
 
-Sympoiesis is a transmedia, multimodal poetic system in which language, sound, and computation co-write one another. This repository contains the **second movement** of a two-stage project exploring distributed subjectivity, human–machine collaboration, and the entanglements of urban and algorithmic experience.
+SYMPOIESIS is a transmedia, multimodal poetic system in which language, sound, and computation co-write one another. This repository contains the **second movement** of a two-stage project exploring distributed subjectivity, human–machine collaboration, and the entanglements of urban and algorithmic experience.
 
 The first stage—implemented in [`LET-THE-NOISE-IN`](https://github.com/Margento/LET-THE-NOISE-IN)—followed a drifting observer confronted with the interference of machine-generated texts & media. This second movement extends that encounter into a generative field where voices, locations, and processes intermingle. The flâneur of city spaces and the flâneur of interlinked data fold into one another, co-modulating patterns, rewriting drafts, and continuously rewriting each other.
 
@@ -130,7 +130,7 @@ states = run_sympoietic_field(state, range(0, 10))
 - **Convergence**: Aesthetic agreement scoring with temporal retroaction & frozen-state destabilization
 - **Media Emission**: FFmpeg filter graphs for audio/video temporal manipulation (trim, split, concat, atempo, setpts)
 
-### Downstream Rendering (Optional)
+### Downstream Rendering (Optional; see also below)
 The pipeline emits FFmpeg commands for structural montage. For final compositing, the repository supports:
 - **Programmatic Text Animation**: Smooth Bézier-driven motion paths with parametric duration, opacity, easing, and scale
 - **Generative Montage**: Automated assembly of text, background footage, and overlays via `CompositeVideoClip`
